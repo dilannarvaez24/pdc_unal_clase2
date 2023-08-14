@@ -42,13 +42,13 @@ La magia de VS code es la multiplataforma, el soporte de varios leguajes y la po
 Si encuentran otros útiles **agregarlos**.
 
 ##### Git 
-Es un versionador de documentos de texto, permite almacenar camvios, revisar versiones pasdas, analizar modificaciones entre muchas otras funciones. Para instalar solo basta descargar este [enlace](https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe). La ventaja es que viene integrado con una consola estilo unix.
+Es un versionador de documentos de texto, permite almacenar cambios, revisar versiones pasdas, analizar modificaciones entre muchas otras funciones. Para instalar solo basta descargar este [enlace](https://github.com/git-for-windows/git/releases/download/v2.39.1.windows.1/Git-2.39.1-64-bit.exe). La ventaja es que viene integrado con una consola estilo unix.
 [![image.png](https://i.postimg.cc/FR9FZkyt/image.png)](https://postimg.cc/bGBjYJVL)
 
 ### Linux
 Si de verdad a alguien le interesa trabajar en linux me avisa, pero de momento dejo el enlace a un repo donde está resumida la instalación de la mayoría de cosas.
 
-Este [repo](https://github.com/fegonzalez7/rob_unal_clase2) tiene una guía exhuastiva de la isntalación de Linux, de las herramientas útiles, y de los comandos básicos. Sería cool darle un vistazo.
+Este [repo](https://github.com/fegonzalez7/rob_unal_clase2) tiene una guía exhauastiva de la isntalación de Linux, de las herramientas útiles, y de los comandos básicos. Sería cool darle un vistazo.
 
 -----------
 ## Reto no. 2
